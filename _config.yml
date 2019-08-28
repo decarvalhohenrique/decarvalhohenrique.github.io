@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Henrique de Carvalho
+description: Data Scientist with Law background
+meta_description: "Henrique de Carvalho's Blog"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://decarvalhohenrique.github.io'
+google_analytics: 'UA-146666653-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://decarvalhohenrique.github.io'
+author:         'Henrique de Carvalho'
+authorTwitter:  ''
 
 permalink:       /:year/:title/
 
