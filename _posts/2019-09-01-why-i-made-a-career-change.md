@@ -36,4 +36,4 @@ So it did not take long before I decided that I had found something I was passio
 
 It was not an easy decision to take. I was filled with self-doubt and the fear of facing the disapproval of my family and some of my friends. Even now I still face it sometimes. But I knew, from the very bottom of my heart, that I had to make this decision, that I had to take advantage of finding something I loved.
 
-In the end, I came out of all this with the best decision of my entire career and a lesson to never again take other people's advice over my intuition. Because, eventually, my desire to learn more about technology had always been there, and my motivations behind my decisions should not matter. It all comes up to really wanting to. If I really want to, then I should do it.
+In the end, I came out of all this with the best decision of my entire career and a lesson to never again take other people's advice over my intuition. Because, eventually, my desire to learn more about technology had always been there, and my motivations behind my decisions should not matter. It all comes down to really wanting to. If I really want to, then I should do it.
